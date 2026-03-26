@@ -1,0 +1,2 @@
+cp lsconnect.sh build/lsconnect_1.0.0/usr/local/bin/lsconnect
+chmod 755 build/lsconnect_1.0.0/usr/local/bin/lsconnect
