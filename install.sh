@@ -29,7 +29,7 @@ if [ ! -f "$SCRIPT_SOURCE" ]; then
 fi
 
 # Copy script to install location
-echo "➡ Installing $PROGRAM_NAME to $INSTALL_PATH"
+echo "Installing $PROGRAM_NAME to $INSTALL_PATH"
 cp "$SCRIPT_SOURCE" "$INSTALL_PATH"
 chmod +x "$INSTALL_PATH"
 
