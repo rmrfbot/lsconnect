@@ -15,6 +15,8 @@ sudo lsconnect connect
 
 The program will prompt you for your login info (email, password)
 LoneStar Email: jennyfreeman02@my.lonestar.edu (d2l.lonestar.edu or lonestar.edu for faculty)
+Password: H******38!
+
 no, it doesn't send your login info anywhere, that would be illegal. dont believe me check the code
 
 
