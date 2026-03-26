@@ -1,0 +1,10 @@
+Package: lsconnect
+Version: 1.0
+Section: net
+Priority: optional
+Architecture: all
+Depends: network-manager, ca-certificates
+Maintainer: Tyler <tylacy90@outlook.com>
+Description: Easy command-line helper to connect to Lone Star College Wi-Fi
+ A simple NetworkManager-based tool that configures and connects
+ to Lone Star College's WPA2-Enterprise Wi-Fi network.
